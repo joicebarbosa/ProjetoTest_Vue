@@ -1,14 +1,10 @@
 <template>
-    <PrimeiroComponente />
+  <h1>Olá Vue!</h1>
 </template>
 
 <script>
-import PrimeiroComponente from './components/PrimeiroComponente.vue'
 
 export default {
-    name: 'App',
-    components: {
-        PrimeiroComponente
-    } 
+  name: 'PrimeiroComponente',
 }
 </script>
