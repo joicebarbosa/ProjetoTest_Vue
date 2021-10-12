@@ -1,9 +1,10 @@
 <template>
-      <input type="text">
+    <input type="text">
 </template>
 
 <script lang="ts">
     export default {
-    name: 'InputText'
-}
+    name: 'InputText'  
+} 
 </script>
+

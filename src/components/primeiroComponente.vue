@@ -3,8 +3,7 @@
 </template>
 
 <script>
-
-export default {
-  name: 'PrimeiroComponente',
+  export default {
+    name: 'PrimeiroComponente',
 }
 </script>
