@@ -21,12 +21,12 @@ export default {
   this. lifeCycle()  
 };
 
-  mounted() {
+mounted(); {
    setTimeout(() => {
     this.nome = 'Pedro'
-    }, 2000;)
+    }, 2000)
     methods: {
-    lifeCycle() {
+    lifeCycle(); {
       cosole.log("Executou");
 
     }
